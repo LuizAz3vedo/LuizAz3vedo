@@ -26,3 +26,4 @@
 
   ![Snake animation](https://github.com/LuizAz3vedo/LuizAz3vedo/blob/output/github-contribution-grid-snake.svg)
   </div>
+![](https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=spur-quote)
