@@ -1,7 +1,7 @@
 ### Olá, Mundo! Eu sou Luiz Az3vedo
 
 - 🔭 Atualmente trabalhando com front-end 
-- 🌱 Estudando Javascript 
+- 🌱 Estudando Javascript e Python 
 - 📫 Contate-me no email: Luizazevedo3212@hotmail.com
 - 😄 Pronouns: Ele/Dele
 
