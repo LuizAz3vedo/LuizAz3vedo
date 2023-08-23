@@ -1,7 +1,7 @@
 ### Olá, Mundo! Eu sou Luiz Az3vedo
 
-- 🔭 Atualmente trabalhando Full Stack
-- 🌱 Estudando Javascript e Python 
+- 🔭 Atualmente trabalhando com Data Science 
+- 🌱 Estudando Python, Dash e BI
 - 📫 Contate-me no email: Luizazevedo3212@hotmail.com
 - 😄 Pronouns: Ele/Dele
 
@@ -16,6 +16,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ##
@@ -25,4 +27,4 @@
   <a href="https://www.linkedin.com/in/luiz-antônio-azevedo-34b38b23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/LuizAz3vedo/LuizAz3vedo/blob/output/github-contribution-grid-snake.svg)
-  </div>
+</div>
