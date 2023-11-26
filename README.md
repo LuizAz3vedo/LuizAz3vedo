@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz Azevedo</h1>
 <h3 align="center">A passionate Brazilian data analyst, exploring insights in the lands of code</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">	
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" autoplay loop>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizaz3vedo&label=Profile%20views&color=0e75b6&style=flat" alt="luizaz3vedo" /> </p>
 
