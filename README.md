@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Python, Dash e BI**
+- 🌱 I’m currently learning **Python, ML and BI**
 
 - 💬 Ask me about **Data Analysis, Insights**
 
